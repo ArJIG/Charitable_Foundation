@@ -4,8 +4,6 @@
 
 https://datalens.yandex.ru/99imyx5bzlm8y-dashbord-dlya-blagotvoritelnogo-fonda-arifmetika-dobra
 
-![bd](https://datalens.yandex.ru/99imyx5bzlm8y-dashbord-dlya-blagotvoritelnogo-fonda-arifmetika-dobra)
-
 ![bd](https://github.com/ArJIG/Charitable_Found/blob/ad470ff56ecb37e845dfac693e123d5824900318/Screen/screen_dashboard.png)
 
 ## Задача

@@ -23,4 +23,4 @@
 — количество посадочных мест.
 
 ## Используемые инструменты
-*pandas, SQL, datalens*
+*Python, Pandas, SQL, Datalens*

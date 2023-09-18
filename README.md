@@ -42,3 +42,6 @@
 
 ## Используемые инструменты
 *SQL, Datalens*
+
+## Дашборд
+https://datalens.yandex.ru/99imyx5bzlm8y-dashbord-dlya-blagotvoritelnogo-fonda-arifmetika-dobra

@@ -1,6 +1,8 @@
 # Разработка дашборда для благотворительного фонда "Арифметика добра"
 
 Подготовлен дашборд на основе закрытых данных о деятельности фонда "Арифметика добра". Дашборд составлен в виде отчета по следующим направлениям работы фонда: общая информация за 2022 год, программа "Однократное семейное устройство", программа "Клуб приемных семей", программа "Семьи кризисного размещения" и программа "Ресурсные родители".
+https://datalens.yandex.ru/99imyx5bzlm8y-dashbord-dlya-blagotvoritelnogo-fonda-arifmetika-dobra
+![bd](https://github.com/ArJIG/Charitable_Found/blob/ad470ff56ecb37e845dfac693e123d5824900318/Screen/screen_dashboard.png)
 
 ## Задача
 
@@ -42,7 +44,3 @@
 
 ## Используемые инструменты
 *SQL, Datalens*
-
-## Дашборд
-https://datalens.yandex.ru/99imyx5bzlm8y-dashbord-dlya-blagotvoritelnogo-fonda-arifmetika-dobra
-![bd](https://github.com/ArJIG/Charitable_Found/blob/ad470ff56ecb37e845dfac693e123d5824900318/Screen/screen_dashboard.png)

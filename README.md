@@ -4,7 +4,7 @@
 
 [Ссылка на дашборд](https://datalens.yandex/99imyx5bzlm8y)
 
-![bd](https://github.com/ArJIG/Charitable_Found/blob/ad470ff56ecb37e845dfac693e123d5824900318/Screen/screen_dashboard.png)
+![bd](https://github.com/ArJIG/Charitable_Found/blob/ad470ff56ecb37e845dfac693e123d5824900318/Screen/screen_dashboard_2.png)
 
 ## Задача
 

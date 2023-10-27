@@ -48,3 +48,5 @@
 
 ## Используемые инструменты
 *SQL, Datalens, Google-таблицы*
+
+![bd](https://github.com/ArJIG/Charitable_Foundation/blob/3eb4525b943bddbac18c05fdece51ac9418c2237/Screen/Charitable_Foundation.png)

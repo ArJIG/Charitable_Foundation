@@ -8,10 +8,6 @@
 
 ![bd](https://github.com/ArJIG/Charitable_Foundation/blob/3eb4525b943bddbac18c05fdece51ac9418c2237/Screen/screen_dashboard_2.png)
 
-## Задача
-
-Необходимо подготовить дашборд с общими показателями работы фонда по выбранным программам.
-
 ## Данные
 
 1. Таблица, содержащая информацию о работе фонда:   
